@@ -17,15 +17,20 @@ class Persona{
     }
     public int ObtenerEdad()
     {
+        int edad=DateTime.Now.Year-FechaNacimiento.Year;
+        if(DateTime.Now.DayOfYear<FechaNacimiento.DayOfYear) edad--;
+        return edad;
 
-        DateTime hoy=DateTime.Today;
-
-        TimeSpan falta=hoy-FechaNacimiento;
-        int EdadDias=(int) falta.TotalDays;
-        int x=EdadDias % 365;
-        EdadDias-=x;
-        int EdadAños=EdadDias/365;
-        return EdadAños;
+    }
+    public bool PuedeVotar(int edad)
+    {
+        bool votar;
+        if (edad>=16){
+            votar=true;
+        }else{
+            votar =false;
+        }
+        return votar;
     }
 
 
