@@ -1,0 +1,15 @@
+Z:\Programacion4\TP02 - POO\bin\Debug\net7.0\TP02 - POO.exe
+Z:\Programacion4\TP02 - POO\bin\Debug\net7.0\TP02 - POO.deps.json
+Z:\Programacion4\TP02 - POO\bin\Debug\net7.0\TP02 - POO.runtimeconfig.json
+Z:\Programacion4\TP02 - POO\bin\Debug\net7.0\TP02 - POO.dll
+Z:\Programacion4\TP02 - POO\bin\Debug\net7.0\TP02 - POO.pdb
+Z:\Programacion4\TP02 - POO\obj\Debug\net7.0\TP02 - POO.csproj.AssemblyReference.cache
+Z:\Programacion4\TP02 - POO\obj\Debug\net7.0\TP02 - POO.GeneratedMSBuildEditorConfig.editorconfig
+Z:\Programacion4\TP02 - POO\obj\Debug\net7.0\TP02 - POO.AssemblyInfoInputs.cache
+Z:\Programacion4\TP02 - POO\obj\Debug\net7.0\TP02 - POO.AssemblyInfo.cs
+Z:\Programacion4\TP02 - POO\obj\Debug\net7.0\TP02 - POO.csproj.CoreCompileInputs.cache
+Z:\Programacion4\TP02 - POO\obj\Debug\net7.0\TP02 - POO.dll
+Z:\Programacion4\TP02 - POO\obj\Debug\net7.0\refint\TP02 - POO.dll
+Z:\Programacion4\TP02 - POO\obj\Debug\net7.0\TP02 - POO.pdb
+Z:\Programacion4\TP02 - POO\obj\Debug\net7.0\TP02 - POO.genruntimeconfig.cache
+Z:\Programacion4\TP02 - POO\obj\Debug\net7.0\ref\TP02 - POO.dll
